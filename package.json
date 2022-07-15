@@ -4,7 +4,7 @@
   "description": "ReactJS on Replit, using Vite bundler",
   "main": "index.js",
   "scripts": {
-    "build": "vite build",
+    "build": "npm run build",
     "dev": "vite"
   },
   "keywords": [],
