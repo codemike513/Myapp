@@ -6,6 +6,7 @@ function App() {
     <main>
       React⚛️ + Vite⚡ + Replit🌀
       Hey Mihir Here
+      Yo yo Mike
     </main>
   );
 }
